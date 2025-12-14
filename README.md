@@ -68,3 +68,23 @@ The system is divided into:
 ## Repository Structure
 
 ### Backend
+sweet-shop-backend/
+├── app/
+│ ├── main.py
+│ ├── database.py
+│ ├── models/
+│ ├── schemas/
+│ ├── routers/
+│ ├── core/
+│ └── tests/
+├── requirements.txt
+└── README.md
+
+sweet-shop-frontend/
+├── src/
+│ ├── api/
+│ ├── components/
+│ ├── pages/
+│ ├── App.js
+│ └── index.js
+└── package.json
